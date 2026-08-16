@@ -57,7 +57,7 @@ require (
 	github.com/openshift/imagebuilder v1.2.21
 	github.com/rootless-containers/rootlesskit/v2 v2.3.6
 	github.com/shirou/gopsutil/v4 v4.26.7
-	github.com/sirupsen/logrus v1.9.4
+	github.com/sirupsen/logrus v1.10.0
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/pflag v1.0.10
 	github.com/stretchr/testify v1.11.1
@@ -67,7 +67,7 @@ require (
 	go.podman.io/buildah v1.45.0
 	go.podman.io/common v0.69.1-0.20260812091434-8c2ac6b8236f
 	go.podman.io/image/v5 v5.41.1-0.20260812091434-8c2ac6b8236f
-	go.podman.io/storage v1.64.1-0.20260812091434-8c2ac6b8236f
+	go.podman.io/storage v1.64.1-0.20260814154204-a60b104fc9c8
 	golang.org/x/crypto v0.55.0
 	golang.org/x/net v0.58.0
 	golang.org/x/sync v0.22.0

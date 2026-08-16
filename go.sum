@@ -341,8 +341,8 @@ github.com/sigstore/protobuf-specs v0.5.1 h1:/5OPaNuolRJmQfeZLayJGFXMpsRJEdgC6ah
 github.com/sigstore/protobuf-specs v0.5.1/go.mod h1:DRBzpFuE+LnvQMN10/dU6nBeKwVLGEQ6o2FovN2Rats=
 github.com/sigstore/sigstore v1.10.9 h1:7Dcpt+ibnltHQZ8XhaU0dFmhHaf/T491eJfA9WDex4Y=
 github.com/sigstore/sigstore v1.10.9/go.mod h1:LYW9+qH7bK8wZmLm6lPxIC5lkHtkJDCgkqjChzTAIBs=
-github.com/sirupsen/logrus v1.9.4 h1:TsZE7l11zFCLZnZ+teH4Umoq5BhEIfIzfRDZ1Uzql2w=
-github.com/sirupsen/logrus v1.9.4/go.mod h1:ftWc9WdOfJ0a92nsE2jF5u5ZwH8Bv2zdeOC42RjbV2g=
+github.com/sirupsen/logrus v1.10.0 h1:T8MxJJXVZkfcC5zSRMRAg2F8+lxjmUCGGWPzFxO+Msc=
+github.com/sirupsen/logrus v1.10.0/go.mod h1:FXZFonkDAnFozmO+5hGAFvB0Yg9/j2SIhA/QuIkP180=
 github.com/skeema/knownhosts v1.3.2 h1:EDL9mgf4NzwMXCTfaxSD/o/a5fxDw/xL9nkU28JjdBg=
 github.com/skeema/knownhosts v1.3.2/go.mod h1:bEg3iQAuw+jyiw+484wwFJoKSLwcfd7fqRy+N0QTiow=
 github.com/smallstep/pkcs7 v0.2.1 h1:6Kfzr/QizdIuB6LSv8y1LJdZ3aPSfTNhTLqAx9CTLfA=
@@ -439,8 +439,8 @@ go.podman.io/common v0.69.1-0.20260812091434-8c2ac6b8236f h1:R3JKltHahW7OKlMShED
 go.podman.io/common v0.69.1-0.20260812091434-8c2ac6b8236f/go.mod h1:+R70kDPEHUvPM40nFOk8bXgiK3njXihdjFKgZi/8qCA=
 go.podman.io/image/v5 v5.41.1-0.20260812091434-8c2ac6b8236f h1:JM9/OUWvDdJxWIIHS8r84jfe4GCDPukOX6hc4jns7/4=
 go.podman.io/image/v5 v5.41.1-0.20260812091434-8c2ac6b8236f/go.mod h1:w0eZsVuE2LWpOC4ykw81Z6Te60yaGX2ax0hvqBYfdlI=
-go.podman.io/storage v1.64.1-0.20260812091434-8c2ac6b8236f h1:8ERhRFB9+XnP+RoUjhXgvDSfwawc07St/zYcKFJ8LRs=
-go.podman.io/storage v1.64.1-0.20260812091434-8c2ac6b8236f/go.mod h1:X923rwhWS+l0h8ybC+udaxOO1FLSv6Qsigi/n+Il9cQ=
+go.podman.io/storage v1.64.1-0.20260814154204-a60b104fc9c8 h1:ekShs85eaTWdpXsWlUz7gRksH8a5BQmWwCkD5iMMT8I=
+go.podman.io/storage v1.64.1-0.20260814154204-a60b104fc9c8/go.mod h1:MYaiygMixoHxWfp+NPhH1KXY//fvw1DYJNh7EiDZwEM=
 go.yaml.in/yaml/v2 v2.4.4 h1:tuyd0P+2Ont/d6e2rl3be67goVK4R6deVxCUX5vyPaQ=
 go.yaml.in/yaml/v2 v2.4.4/go.mod h1:gMZqIpDtDqOfM0uNfy0SkpRhvUryYH0Z6wdMYcacYXQ=
 go.yaml.in/yaml/v3 v3.0.4/go.mod h1:DhzuOOF2ATzADvBadXxruRBLzYTpT36CKvDb3+aBEFg=
